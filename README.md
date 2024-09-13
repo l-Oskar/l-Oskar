@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @l-Oskar
 - 👀 I’m interested in to learn programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me xoskarx@icloud.com
+- 📫 How to reach me fediuk_v@protonmail.com
 
 <!---
 l-Oskar/l-Oskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
