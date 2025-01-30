@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l-Oskar
 - 👀 I’m interested in to learn programming
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me fediuk_v@protonmail.com
 
